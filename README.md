@@ -1,10 +1,4 @@
-C'est une excellente demande. Un README de qualité est la différence entre un "petit TP" et un "Projet Professionnel" sur GitHub. C'est la première chose que les recruteurs ou les tech leads regardent.
 
-J'ai pris le temps de structurer cela parfaitement, en incluant l'architecture, les diagrammes, et les commandes pas-à-pas.
-
-Voici le fichier `README.md` complet. Tu peux copier-coller tout le bloc ci-dessous directement dans ton fichier.
-
------
 
 # 🚀 Real-Time Big Data Pipeline with Apache Spark & HDFS
 
